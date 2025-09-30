@@ -6,7 +6,7 @@
 
 #
 
-<p align="center">Estudante formado pelo Instituto Federal do Espírito Santo — Campus Alegre. Estou em constante desenvolvimento e aprendizado, sempre buscando colocar em prática meus conhecimentos.
+<p align="center">Formado pelo Instituto Federal do Espírito Santo — Campus Alegre. Estou em constante desenvolvimento e aprendizado, sempre buscando colocar em prática meus conhecimentos.
   
 #
 
